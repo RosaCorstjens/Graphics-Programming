@@ -1,0 +1,15 @@
+﻿  LightingApp.cpp
+LightingApp.cpp(44): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+LightingApp.cpp(47): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+LightingApp.cpp(50): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+LightingApp.cpp(309): warning C4244: 'argument' : conversion from 'UINT' to 'float', possible loss of data
+     Creating library E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\03Lighting\Lighting_Intermediate\Release\Lighting.lib and object E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\03Lighting\Lighting_Intermediate\Release\Lighting.exp
+  Generating code
+  Finished generating code
+Effects11.lib(EffectAPI.obj) : warning LNK4204: 'E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\03Lighting\Lighting_Intermediate\Release\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+Effects11.lib(EffectNonRuntime.obj) : warning LNK4204: 'E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\03Lighting\Lighting_Intermediate\Release\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+Effects11.lib(EffectLoad.obj) : warning LNK4204: 'E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\03Lighting\Lighting_Intermediate\Release\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+Effects11.lib(d3dxGlobal.obj) : warning LNK4204: 'E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\03Lighting\Lighting_Intermediate\Release\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+Effects11.lib(EffectReflection.obj) : warning LNK4204: 'E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\03Lighting\Lighting_Intermediate\Release\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+Effects11.lib(EffectRuntime.obj) : warning LNK4204: 'E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\03Lighting\Lighting_Intermediate\Release\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+  Lighting.vcxproj -> E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\03Lighting\Lighting_Intermediate\Release\Lighting.exe
