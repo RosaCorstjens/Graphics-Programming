@@ -1,0 +1,26 @@
+﻿  PyramidGenerator.cpp
+  Primitives.cpp
+e:\gebruikers\rosa corstjens\documenten\graphics_projects\01primitives_intermediate\primitives.cpp(222): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+e:\gebruikers\rosa corstjens\documenten\graphics_projects\01primitives_intermediate\primitives.cpp(223): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+e:\gebruikers\rosa corstjens\documenten\graphics_projects\01primitives_intermediate\primitives.cpp(278): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\gebruikers\rosa corstjens\documenten\graphics_projects\01primitives_intermediate\primitives.cpp(316): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\program files (x86)\microsoft visual studio 10.0\vc\include\xutility(2227): warning C4996: 'std::_Copy_impl': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+          e:\program files (x86)\microsoft visual studio 10.0\vc\include\xutility(2212) : see declaration of 'std::_Copy_impl'
+          e:\gebruikers\rosa corstjens\documenten\graphics_projects\01primitives_intermediate\primitives.cpp(72) : see reference to function template instantiation '_OutIt std::copy<_Ty*,_Ty*>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=float *,
+              _Ty=float,
+              _InIt=float *
+          ]
+  d3dUtil.cpp
+  Generating Code...
+     Creating library E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\01Primitives_Intermediate\Debug\Primitives.lib and object E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\01Primitives_Intermediate\Debug\Primitives.exp
+Effects11d.lib(d3dx11dbg.obj) : warning LNK4204: 'E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\01Primitives_Intermediate\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+Effects11d.lib(d3dxGlobal.obj) : warning LNK4204: 'E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\01Primitives_Intermediate\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+Effects11d.lib(EffectAPI.obj) : warning LNK4204: 'E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\01Primitives_Intermediate\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+Effects11d.lib(EffectLoad.obj) : warning LNK4204: 'E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\01Primitives_Intermediate\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+Effects11d.lib(EffectNonRuntime.obj) : warning LNK4204: 'E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\01Primitives_Intermediate\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+Effects11d.lib(EffectReflection.obj) : warning LNK4204: 'E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\01Primitives_Intermediate\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+Effects11d.lib(EffectRuntime.obj) : warning LNK4204: 'E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\01Primitives_Intermediate\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+  Primitives.vcxproj -> E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\01Primitives_Intermediate\Debug\Primitives.exe
