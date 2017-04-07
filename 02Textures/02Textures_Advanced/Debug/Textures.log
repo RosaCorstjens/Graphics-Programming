@@ -1,0 +1,8 @@
+﻿  TexturesApp.cpp
+e:\gebruikers\rosa corstjens\documenten\graphics_projects\02textures\02textures_advanced\texturesapp.cpp(74): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+e:\gebruikers\rosa corstjens\documenten\graphics_projects\02textures\02textures_advanced\texturesapp.cpp(78): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+e:\gebruikers\rosa corstjens\documenten\graphics_projects\02textures\02textures_advanced\texturesapp.cpp(81): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+e:\gebruikers\rosa corstjens\documenten\graphics_projects\02textures\02textures_advanced\texturesapp.cpp(84): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+e:\gebruikers\rosa corstjens\documenten\graphics_projects\02textures\02textures_advanced\texturesapp.cpp(165): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+e:\gebruikers\rosa corstjens\documenten\graphics_projects\02textures\02textures_advanced\texturesapp.cpp(165): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+  Textures.vcxproj -> E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\02Textures\02Textures_Advanced\Debug\Textures.exe
