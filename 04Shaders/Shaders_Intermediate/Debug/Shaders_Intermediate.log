@@ -1,0 +1,14 @@
+﻿  ShadersApp.cpp
+e:\gebruikers\rosa corstjens\documenten\graphics_projects\04shaders\shaders_intermediate\shadersapp.cpp(34): warning C4244: '=' : conversion from 'int' to 'FLOAT', possible loss of data
+e:\gebruikers\rosa corstjens\documenten\graphics_projects\04shaders\shaders_intermediate\shadersapp.cpp(35): warning C4244: '=' : conversion from 'int' to 'FLOAT', possible loss of data
+e:\gebruikers\rosa corstjens\documenten\graphics_projects\04shaders\shaders_intermediate\shadersapp.cpp(108): warning C4244: '=' : conversion from 'int' to 'FLOAT', possible loss of data
+e:\gebruikers\rosa corstjens\documenten\graphics_projects\04shaders\shaders_intermediate\shadersapp.cpp(109): warning C4244: '=' : conversion from 'int' to 'FLOAT', possible loss of data
+     Creating library E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\04Shaders\Shaders_Intermediate\Debug\Shaders_Intermediate.lib and object E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\04Shaders\Shaders_Intermediate\Debug\Shaders_Intermediate.exp
+Effects11d.lib(d3dx11dbg.obj) : warning LNK4204: 'E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\04Shaders\Shaders_Intermediate\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+Effects11d.lib(d3dxGlobal.obj) : warning LNK4204: 'E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\04Shaders\Shaders_Intermediate\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+Effects11d.lib(EffectAPI.obj) : warning LNK4204: 'E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\04Shaders\Shaders_Intermediate\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+Effects11d.lib(EffectLoad.obj) : warning LNK4204: 'E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\04Shaders\Shaders_Intermediate\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+Effects11d.lib(EffectNonRuntime.obj) : warning LNK4204: 'E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\04Shaders\Shaders_Intermediate\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+Effects11d.lib(EffectReflection.obj) : warning LNK4204: 'E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\04Shaders\Shaders_Intermediate\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+Effects11d.lib(EffectRuntime.obj) : warning LNK4204: 'E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\04Shaders\Shaders_Intermediate\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+  Shaders_Intermediate.vcxproj -> E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\04Shaders\Shaders_Intermediate\Debug\Shaders_Intermediate.exe

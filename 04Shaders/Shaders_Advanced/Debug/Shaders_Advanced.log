@@ -1,0 +1,4 @@
+﻿  ShadersApp.cpp
+e:\gebruikers\rosa corstjens\documenten\graphics_projects\04shaders\shaders_advanced\shadersapp.cpp(319): warning C4018: '<' : signed/unsigned mismatch
+e:\gebruikers\rosa corstjens\documenten\graphics_projects\04shaders\shaders_advanced\shadersapp.cpp(338): warning C4018: '<' : signed/unsigned mismatch
+  Shaders_Advanced.vcxproj -> E:\Gebruikers\Rosa Corstjens\Documenten\graphics_projects\04Shaders\Shaders_Advanced\Debug\Shaders_Advanced.exe
